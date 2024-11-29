@@ -1,0 +1,17 @@
+.jumbotron{
+    background-color: rgb(227, 255, 213);
+    padding-top: 5rem;
+}
+
+
+section{
+    padding-top: 5rem;
+}
+
+#about{
+    background-color: white;
+}
+
+#portofolio{
+    background-color: rgb(227, 255, 213);
+}
