@@ -1,17 +1,40 @@
-.jumbotron{
-    background-color: rgb(227, 255, 213);
-    padding-top: 5rem;
+.rounded-circle{
+    margin-right: 10px;
 }
 
-
-section{
-    padding-top: 5rem;
+.carousel-item {
+    height: 530px;
+    background: linear-gradient(90deg,rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7))
 }
 
-#about{
-    background-color: white;
+.featurette-divider {
+    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
 }
 
-#portofolio{
-    background-color: rgb(227, 255, 213);
+.alamat p{
+    margin-left: 20px;
 }
+
+.row.featurette {
+    padding: 60px; /* Ubah nilai ini sesuai kebutuhan */
+}
+
+.custom-margin-bottom {
+    margin-bottom: 50px;
+}
+
+.custom-h5-color {
+    color: white; /* Ganti dengan warna yang diinginkan */
+}
+  
+  .custom-p-color {
+    color: white; /* Ganti dengan warna yang diinginkan */
+}
+
+.custom-size-gambar{
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
